@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Copy of AI Grader",
+  "description": "A comprehensive tool to digitize standard answer keys from images into Excel, and then grade student answer sheets against that structured data.",
+  "requestFramePermissions": []
+}
